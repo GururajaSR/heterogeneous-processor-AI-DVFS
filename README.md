@@ -61,6 +61,21 @@ The waveform below, generated using GTKWave, shows the simulation of the heterog
 
 ![Waveform](https://github.com/GururajaSR/heterogeneous-processor-AI-DVFS/blob/main/waveform.png)
 
+## Presentation
+
+This presentation outlines the development of an innovative ASIC implementation featuring a heterogeneous multi-core processor designed for high efficiency, adaptability, and robustness. The project integrates AI capabilities with dynamic voltage and frequency scaling (DVFS) and advanced fault tolerance.
+
+### Key features include:
+
+- Multi-Core Architecture: Core A is optimized for matrix operations, while Core B excels in advanced data processing.
+- AI Integration: Adaptive task scheduling and self-optimization using reinforcement learning.
+- DVFS: Balances performance and power consumption, adapting to varying workloads.
+- Advanced Fault Tolerance: Ensures system reliability and data integrity with ECC and a Fault Monitor.
+
+![HPC Presentation](https://github.com/GururajaSR/heterogeneous-processor-AI-DVFS/blob/main/hpc.pptx)
+
+The presentation also covers the system architecture, simulation environment, results, and performance metrics, demonstrating the successful integration of heterogeneous cores with AI optimization and encryption.
+
 ## Contributions
 Feel free to contribute to this project. Fork the repository, create a new branch, and submit a pull request for any enhancements or bug fixes.
 
