@@ -55,6 +55,12 @@ vvp tb_heterogeneous_processor_tb
 ```bash
 gtkwave tb_heterogeneous_processor.vcd
 ```
+## Waveform Simulation
+
+The waveform below, generated using GTKWave, shows the simulation of the heterogeneous processor's operation using the testbench tb_heterogeneous_processor_test. Key signals such as core_a_result, core_b_result, bus_data_out, encrypted_data_out, voltage_level_out, and optimized_parameters_out are traced over time, illustrating how the processor manages tasks, applies DVFS, and optimizes core functionality. This visualization highlights the interaction between the different cores and modules as data is processed and optimized.
+
+![Waveform](https://github.com/GururajaSR/heterogeneous-processor-AI-DVFS/blob/main/waveform.png)
+
 ## Contributions
 Feel free to contribute to this project. Fork the repository, create a new branch, and submit a pull request for any enhancements or bug fixes.
 
